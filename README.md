@@ -1,1 +1,1 @@
-# contracts
+# CGCG ERC20 Contract.
